@@ -1,0 +1,22 @@
+body{
+  background: blue;
+  color: yellow;
+  size: 200%;
+  margin:5%;
+
+
+}
+
+p{
+  font-family: Comic Sans;
+}
+
+a:link {
+color: #cc0000;
+}
+a:visited {
+color: #999999;
+}
+a:hover {
+color: #ff3300;
+}
